@@ -1,7 +1,7 @@
 Python ZTM Cheatsheet 💻🚀
 ===============================
 
-We created this Python 3 Cheat Sheet initially for students of [Complete Python Developer in 2022: Zero to Mastery](https://academy.zerotomastery.io/p/complete-python-developer-zero-to-mastery) but we're now sharing it with any Python beginners to help them learn and remember common Python syntax and with intermediate and advanced Python developers as a handy reference. If you'd like to download a PDF version of this Python Cheat Sheet, you can get it [here](https://zerotomastery.io/courses/python/cheatsheet/?utm_source=github&utm_medium=ztm-python-cheat-sheet)!
+We created this Python 3 Cheat Sheet initially for students of [Complete Python Developer: Zero to Mastery](https://zerotomastery.io/courses/learn-python/) but we're now sharing it with any Python beginners to help them learn and remember common Python syntax and with intermediate and advanced Python developers as a handy reference. If you'd like to download a PDF version of this Python Cheat Sheet, you can get it [here](https://zerotomastery.io/courses/python/cheatsheet/?utm_source=github&utm_medium=ztm-python-cheat-sheet)!
 
 Contents
 --------
@@ -34,7 +34,7 @@ type(4E2) # float - 4*10 to the power of 2
 10 ** 3 # 1000
 10 / 3  # 3.3333333333333335
 10 // 3 # 3 --> floor division - no decimals and returns an int
-10 % 3  # 1 --> modulo operator - return the reminder. Good for deciding if number is even or odd
+10 % 3  # 1 --> modulo operator - return the remainder. Good for deciding if number is even or odd
 ```
 
 ```python
